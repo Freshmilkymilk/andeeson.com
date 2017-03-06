@@ -495,8 +495,7 @@ $(document).ready(function () {
     /* twitter init */
     /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     $('.tweet').twittie({
-        username: 'MikeAndeeson',
-        list: null,
+        username: 'mikeandeeson',
         count: 2
     });
 
