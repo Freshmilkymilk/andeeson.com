@@ -546,6 +546,7 @@ p.bold{
     text-transform: none;
 }
 
+
 /*<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->*/
 /*<!--Intro -->*/
 /*<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->*/
@@ -1628,27 +1629,6 @@ label input, textarea{
     margin:0;
     padding:0;
     font-size: 12px;
-}
-#footer p, .tweet{
-    color: #a5a5a5;
-}
-
-.tweet a {
-    color:white;
-}
-
-#footer .tweet ul{
-    padding:0;
-}
-#footer .tweet li{
-    list-style:none;
-    line-height: 26px;
-}
-#footer .tweet li:before {
-    font-family: 'FontAwesome';
-    content: '\f099';
-    margin:0 15px 0 -27px;
-    color: #a5a5a5;
 }
 
 .bottomLine .footerSocialIcons {

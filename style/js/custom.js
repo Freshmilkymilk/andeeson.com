@@ -491,12 +491,4 @@ $(document).ready(function () {
         });
     })(jQuery, window);
 
-    /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-    /* twitter init */
-    /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-    $('.tweet').twittie({
-        username: 'mikeandeeson',
-        count: 2
-    });
-
 });
