@@ -3,6 +3,12 @@ title: andeeson
 paginate: 5
 theme: charlolamode
 
+menu:
+    main:
+        - name: Contact
+          url: /contact/
+          weight: 30
+
 params:
     author: Michael Anderson
     defaultTheme: auto
