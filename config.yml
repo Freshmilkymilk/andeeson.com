@@ -40,8 +40,6 @@ params:
         buttons:
             - name: My Minecraft Server
               url: https://ardacraft.me
-    mainSections:
-      - articles
 
     socialIcons:
         - name: twitter

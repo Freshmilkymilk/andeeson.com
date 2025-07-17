@@ -2,29 +2,11 @@
 title: "Projects"
 date: 2025-01-17
 draft: false
-description: "A showcase of my technical projects and achievements"
 ---
-
-# Projects
 
 Welcome to my project portfolio. Here are some of the key projects I've worked on, showcasing my expertise in cloud infrastructure, DevOps, and automation.
 
 ## Tactical UDL
-
-### AWS Snowball Automated Order Pipeline
-Developed a comprehensive automated pipeline for AWS Snowball device management and deployment.
-
-**Key Technologies:**
-- **Ansible** - Configuration management and automation
-- **Terraform** - Infrastructure as code
-- **Amazon ECS** - Container orchestration
-- **AWS Step Functions** - Workflow orchestration
-
-**Achievements:**
-- Built AMI creation process using Ansible and Terraform
-- Automated Snowball ordering with customer-specific configurations
-- Streamlined operational workflows for edge computing deployments
-- Integrated AWS services for end-to-end automation
 
 ### Kubernetes on Bare Metal
 Architected and implemented a transition from traditional infrastructure to Kubernetes-based deployments on bare metal hardware, including laptop deployments.
@@ -40,6 +22,21 @@ Architected and implemented a transition from traditional infrastructure to Kube
 - Implemented secure, minimal attack surface with distroless images
 - Created scalable deployment pipelines for diverse hardware environments
 - Established GitOps workflows for consistent deployments
+
+### AWS Snowball Automated Order Pipeline
+Developed a comprehensive automated pipeline for AWS Snowball device management and deployment.
+
+**Key Technologies:**
+- **Ansible** - Configuration management and automation
+- **Terraform** - Infrastructure as code
+- **Amazon ECS** - Container orchestration
+- **AWS Step Functions** - Workflow orchestration
+
+**Achievements:**
+- Built AMI creation process using Ansible and Terraform
+- Automated Snowball ordering with customer-specific configurations
+- Streamlined operational workflows for edge computing deployments
+- Integrated AWS services for end-to-end automation
 
 ## GitLab Pipeline Components
 
