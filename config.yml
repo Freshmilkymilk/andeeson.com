@@ -5,6 +5,9 @@ theme: charlolamode
 
 menu:
     main:
+        - name: Projects
+          url: /projects/
+          weight: 30
         - name: Contact
           url: /contact/
           weight: 30
@@ -26,7 +29,8 @@ params:
         title: Michael Anderson
         description: |
           Hey, I'm Michael.
-           I am a Cyber Network Engineer. 
+
+          I am a DevSecOps Engineer. 
         
           I like automation, beautiful things, and space.
         imageUrl: "/images/profile.png"
